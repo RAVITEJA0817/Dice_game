@@ -1,0 +1,47 @@
+.say{
+    color: darkgreen;
+    font-size: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 10px 10px 15px grey;
+}
+
+body{
+    background-color: white;
+}
+
+.dice{
+    display: inline-block;
+    padding: 25px;
+    color: darkgreen;
+    font-size: 25px;
+    font-family:cursive;
+    text-shadow: 6px 6px 10px grey;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+#data{
+    text-align: center;
+}
+.footer{
+    font-size: 20px;
+    font-weight: 7000;
+    color:darkorchid;
+    text-align: center;
+}
+.btn{
+    margin-top: 12%;
+    position: absolute;
+    border-radius: 7px;
+    box-shadow: 10px 10px 10px grey;
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 100px;
+}
+.btn:hover{
+    color: black;
+    background-color: white;
+}
